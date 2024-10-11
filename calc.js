@@ -87,6 +87,6 @@ function roundNumber(num) {
 
 function addDecimal() {
     if(!currentValue.includes(".")) {
-        currentvalue += ".";
+        currentValue += ".";
     }
 }
